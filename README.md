@@ -60,8 +60,20 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![Screenshot 2025-06-01 110641](https://github.com/user-attachments/assets/061e61e0-9b6e-4653-b8ff-ff64c429ce10)
+
+![Screenshot 2025-06-01 110654](https://github.com/user-attachments/assets/6e9abf98-b5b7-4cff-ad36-d65c32fc6310)
+
+![Screenshot 2025-06-01 110707](https://github.com/user-attachments/assets/71dfedd3-4e40-4673-a1da-f9baa9d75818)
+
+![Screenshot 2025-06-01 110722](https://github.com/user-attachments/assets/4f6d9119-807d-4e84-aaae-dd30784ba4f8)
+
+![Screenshot 2025-06-01 110735](https://github.com/user-attachments/assets/d2ffee0d-90fe-41a1-a2fc-f859092cad90)
+
+
+
+### Name: VIMALRAJ B
+### Register Number:212224230304
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
